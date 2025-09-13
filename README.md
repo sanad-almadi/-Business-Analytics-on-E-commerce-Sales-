@@ -52,16 +52,16 @@ The dataset did not include details about inventory or shipping costs, which lim
 
 To run the analysis, first clone the repository and navigate into the project folder:
 
-# Clone repository
+###Clone repository
 
 git clone https://github.com/sanad-almadi/-Business-Analytics-on-E-commerce-Sales-.git
 cd Business-Analytics-on-E-commerce-Sales-
 
-# Install requirements
+###Install requirements
 
 pip install -r requirements.txt
 
-# Run notebooks
+###Run notebooks
 
 jupyter notebook
 
